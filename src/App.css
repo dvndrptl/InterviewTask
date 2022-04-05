@@ -1,0 +1,44 @@
+*{
+  margin: 0px;
+  padding: 0%;
+}
+.main{
+margin-top: 0px;
+padding-top: 80px;
+  background-color: rgb(133, 198, 206);
+  height: 100vh;
+  /* text-align: center; */
+}
+
+.formBody{
+  height: 90%;
+  width: 92%;
+  background-color: #fff;
+  margin: auto;
+  
+}
+
+.signup-left{
+  height: 100%;
+  width: 37%;
+  background-color: bisque;
+}
+
+.image{
+  height: 100%;
+  width: 100%;
+}
+.head-Form{
+  color: rgb(41, 113, 113);
+}
+.heading-inner{
+  font-size: 12px;
+  color: rgba(41, 113, 113,.5);
+}
+.checkbox{
+  font-size: 12px;
+  color: rgba(41, 113, 113,.7);
+}
+.form-body{
+  margin: auto;
+}
